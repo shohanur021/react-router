@@ -1,0 +1,11 @@
+.leauge{
+    margin:0px 20px;
+    background-color: darkcyan;
+} 
+.showLeauge{
+    display: flex;
+    flex-wrap: wrap;
+}
+.leauge h1{
+    text-align: center;
+}

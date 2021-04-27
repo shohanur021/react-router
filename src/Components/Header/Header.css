@@ -1,0 +1,22 @@
+.headerContainer{
+    position: relative;
+}
+.Headercontainer{
+    position: relative;
+    text-align: center
+}
+.headerStyle{
+     height:330px;
+     width:99.2%;
+     margin: 5px;
+     filter: blur(1.5px);
+     -webkit-filter: blur(1.4px);
+}
+.heading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size:48px;
+}

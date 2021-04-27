@@ -1,0 +1,18 @@
+.detailscontainer{
+    position: relative;
+    text-align: center
+}
+.logocenter{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .firstImg{
+   width:100%;
+   height:350px;
+  }
+  .secondImg{
+    width:230px;
+    height:130px;
+  }

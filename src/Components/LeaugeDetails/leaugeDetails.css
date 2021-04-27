@@ -1,0 +1,35 @@
+.leaugeDetailsCard{
+    background-color: rgb(18, 9, 41);
+    height:100%;
+    padding-top: 30px;
+}
+.cardPic{
+    display: flex;
+    justify-content: space-evenly;
+     height:100%;
+     background-color: rgb(43, 69, 184);
+     margin:0px 150px;
+     border-radius: 8px;
+}
+.firstOne{
+    color: white;
+    text-align: center;
+    padding-top:30px
+}
+.seondOne{
+    color: white;
+    padding:10px;
+    margin-left:200px
+}
+.seondOne img{
+    height:180px
+}
+.description{
+    color: white;
+    margin:25px 30px
+}
+.iconsStyle{
+    text-align: center;
+    padding-bottom: 42px;
+    padding-top: 10px
+}
